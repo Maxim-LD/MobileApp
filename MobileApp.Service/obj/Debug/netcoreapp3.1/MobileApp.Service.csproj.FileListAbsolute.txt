@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\bin\Debug\netcoreapp3.1\MobileApp.Service.deps.json
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\bin\Debug\netcoreapp3.1\MobileApp.Service.dll
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\bin\Debug\netcoreapp3.1\MobileApp.Service.pdb
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\bin\Debug\netcoreapp3.1\MobileApp.Model.dll
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\bin\Debug\netcoreapp3.1\MobileApp.Model.pdb
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\obj\Debug\netcoreapp3.1\MobileApp.Service.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\obj\Debug\netcoreapp3.1\MobileApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\obj\Debug\netcoreapp3.1\MobileApp.Service.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\obj\Debug\netcoreapp3.1\MobileApp.Service.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\obj\Debug\netcoreapp3.1\MobileApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\obj\Debug\netcoreapp3.1\MobileApp.Service.csproj.CopyComplete
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\obj\Debug\netcoreapp3.1\MobileApp.Service.dll
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Service\obj\Debug\netcoreapp3.1\MobileApp.Service.pdb

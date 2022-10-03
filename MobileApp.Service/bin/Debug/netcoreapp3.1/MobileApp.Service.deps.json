@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MobileApp.Service/1.0.0": {
+        "dependencies": {
+          "MobileApp.Model": "1.0.0"
+        },
+        "runtime": {
+          "MobileApp.Service.dll": {}
+        }
+      },
+      "MobileApp.Model/1.0.0": {
+        "runtime": {
+          "MobileApp.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MobileApp.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MobileApp.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

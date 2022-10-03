@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\bin\Debug\netcoreapp3.1\MobileApp.Migrations.deps.json
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\bin\Debug\netcoreapp3.1\MobileApp.Migrations.dll
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\bin\Debug\netcoreapp3.1\MobileApp.Migrations.pdb
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\bin\Debug\netcoreapp3.1\MobileApp.Model.dll
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\bin\Debug\netcoreapp3.1\MobileApp.Model.pdb
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\obj\Debug\netcoreapp3.1\MobileApp.Migrations.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\obj\Debug\netcoreapp3.1\MobileApp.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\obj\Debug\netcoreapp3.1\MobileApp.Migrations.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\obj\Debug\netcoreapp3.1\MobileApp.Migrations.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\obj\Debug\netcoreapp3.1\MobileApp.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\obj\Debug\netcoreapp3.1\MobileApp.Migrations.csproj.CopyComplete
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\obj\Debug\netcoreapp3.1\MobileApp.Migrations.dll
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\obj\Debug\netcoreapp3.1\MobileApp.Migrations.pdb
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\bin\Debug\netcoreapp3.1\MobileApp.Migrations.runtimeconfig.json
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\bin\Debug\netcoreapp3.1\MobileApp.Migrations.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Migrations\obj\Debug\netcoreapp3.1\MobileApp.Migrations.genruntimeconfig.cache

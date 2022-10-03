@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Model\bin\Debug\netcoreapp3.1\MobileApp.Model.deps.json
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Model\bin\Debug\netcoreapp3.1\MobileApp.Model.dll
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Model\bin\Debug\netcoreapp3.1\MobileApp.Model.pdb
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Model\obj\Debug\netcoreapp3.1\MobileApp.Model.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Model\obj\Debug\netcoreapp3.1\MobileApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Model\obj\Debug\netcoreapp3.1\MobileApp.Model.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Model\obj\Debug\netcoreapp3.1\MobileApp.Model.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Model\obj\Debug\netcoreapp3.1\MobileApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Model\obj\Debug\netcoreapp3.1\MobileApp.Model.dll
+C:\Users\DELL\source\repos\MobileApp\MobileApp.Model\obj\Debug\netcoreapp3.1\MobileApp.Model.pdb
