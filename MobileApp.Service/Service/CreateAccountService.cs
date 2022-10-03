@@ -11,7 +11,7 @@ namespace MobileApp.Service.Service
         {
             var request = new ApplicationData();
 
-            request.AccountId = Guid.NewGuid();
+            request.Id = Guid.NewGuid();
             request.FirstName = model.FirstName;
             request.LastName = model.LastName;
             request.DateOfBirth = model.DateOfBirth;

@@ -4,7 +4,7 @@ namespace MobileApp.Model.Entity
 {
     public class ApplicationData
     {
-        public Guid AccountId { get; set; }
+        public Guid Id { get; set; }
         public DateTime DateCreated { get; set; }
         public bool Status { get; set; }
         public string Message { get; set; }
